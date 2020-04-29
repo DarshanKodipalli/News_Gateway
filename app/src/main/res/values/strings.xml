@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">News Gateway</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="article">ARTICLE</string>
+    <string name="index">INDEX</string>
+    <string name="count">TOTAL</string>
+    <string name="action_msg_to_service">1</string>
+    <string name="action_news_story">2</string>
+    <string name="article_list">3</string>
+    <string name="source_id">4</string>
+    <string name="apikey">d06d71d91b2843feb357065d6214cc4f</string>
+    <string name="query1">https://newsapi.org/v2/everything?sources=</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="drawer">Open drawer navigation</string>
+    <string name="close">Close drawer navigation</string>
+</resources>
